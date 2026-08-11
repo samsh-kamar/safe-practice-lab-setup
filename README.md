@@ -31,6 +31,6 @@ Build an isolated lab environment on Linux to practice cybersecurity safely and 
 - ls -l output in VM
 - whoami output in VM
 
-ssons Learned
+## lesson learned
 Running Linux as host taught me Linux fundamentals faster. Network isolation is key to practicing safely without affecting my main system.
 
